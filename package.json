@@ -1,7 +1,7 @@
 {
   "name": "landing-template",
   "engines": {
-    "node": "12"
+    "node": "20.x"
   },
   "version": "1.0.0",
   "description": "Template website",
